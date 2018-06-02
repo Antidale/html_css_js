@@ -3,6 +3,7 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
 }
 
 /* element selectors */
@@ -52,6 +53,10 @@ p {
 
 .padding {
   padding: 5px;
+}
+
+.white-text {
+  color: antiquewhite;
 }
 
 /* between 768px and 991px - medium size */
